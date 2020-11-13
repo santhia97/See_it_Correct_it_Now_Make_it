@@ -141,8 +141,9 @@ body {
     left: 50%;
 
      */
-    top: 60%;
+    top: 80%;
     left:50%;
+
     position: absolute;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
